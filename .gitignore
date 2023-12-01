@@ -1,0 +1,4 @@
+/images
+
+# DVC configuration
+.dvc/config
