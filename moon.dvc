@@ -1,0 +1,6 @@
+outs:
+- md5: 87556dfcc52b2389956f99a0f190c829.dir
+  size: 35613131
+  nfiles: 150
+  hash: md5
+  path: moon
